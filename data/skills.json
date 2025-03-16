@@ -1,0 +1,43 @@
+[
+  {
+    "grouping": "Programming Languages & Operating Systems",
+    "skills": ["Python", "JavaScript", "php", "Java", "linux"]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [
+      "Laravel",
+      "Vue.js",
+      "Bootstrap",
+      "Tailwind",
+      "Cypress",
+      "Playwright",
+      "Transformers",
+      "Pandas",
+      "git"
+    ]
+  },
+  {
+    "grouping": "Data Management",
+    "skills": [
+      { "name": "MySQL", "icon": "database" },
+      "MongoDB",
+      { "name": "ElasticSearch" }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      { "name": "Docker", "link": "https://docker.com" },
+      { "name": "AWS", "link": "https://aws.amazon.com" }
+    ]
+  },
+  {
+    "grouping": "Design",
+    "skills": ["Adobe Photoshop", "Adobe Illustrator"]
+  },
+  {
+    "grouping": "Language Certifications",
+    "skills": ["JLPT N1", "TOEIC 935"]
+  }
+]

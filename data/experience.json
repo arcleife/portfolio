@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Machine Learning Engineer",
+    "company": "foxcale inc.",
+    "summary": "- Led Data/AI research team, developed Japanese corpus, and built text classification model for upcoming projects.\n- Designed NER model, OCR, and text anonymization system for processing Japanese text efficiently.\n- Conducted machine learning training for engineers, enhancing team's skills and knowledge.\n- Designed and built NER model and text anonymization system for processing Japanese text.",
+    "range": "January 2024 - Present"
+  },
+  {
+    "role": "Full Stack Engineer",
+    "company": "foxcale inc.",
+    "summary": "- Refactored and maintained web application for digital forensic data reviews.",
+    "range": "May 2023 - December 2023"
+  },
+  {
+    "role": "Full Stack Engineer",
+    "company": "H2 Technology",
+    "summary": "- Developed and maintained features for stores management web application using Laravel and Vue.\n- Facilitated communication between Japanese and English speakers in global engineering teams.\n- Collaborated with management to ensure smooth operations and project delivery.",
+    "range": "March 2022 - April 2023"
+  },
+  {
+    "role": "Full Stack Engineer",
+    "company": "Sanei Hytechs",
+    "summary": "- Took part in various projects including:\n  - Web application development for visualizing environment data captured by IoT system using Vue/Angular.js and Laravel.\n  - Migration of legacy web application bundler to Webpack for improving development productivity.\n  - Design and implementation of migration of embedded web application for configuring audio device to AWS.",
+    "range": "April 2020 - February 2022"
+  }
+]

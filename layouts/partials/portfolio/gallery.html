@@ -1,0 +1,13 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="gallery">
+    <div class="my-auto" id="gallery-content">
+        <h2 class="mb-5">{{ i18n "gallery" }}</h2>
+        {{ $data := $.Data }} {{ range $data.gallery }}
+        <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
+        <ul>
+            {{ range .artPaths }}
+            <img src="{{ . }}" width="800" />
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+</section>

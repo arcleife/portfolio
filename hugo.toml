@@ -1,0 +1,52 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Rizky - Portofolio'
+theme = 'jsonresume'
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Tokyo, Japan"
+email = "mryanuar21@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Muhamad Rizky"
+lastName = "Yanuar"
+phone = "+8180-5372-5905"
+profileImage = "img/avatar.jpg"
+showQr = false
+showContact = false
+showBoards = false
+showCertifications = false
+showSocializations = true
+sections = ["skills", "experience", "education"]
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+name = "LinkedIn"
+link = "https://www.linkedin.com/in/muhamad-rizky-yanuar-71239559/"
+
+[[params.handles]]
+name = "GitHub"
+link = "https://github.com/arcleife/"
+
+[[params.handles]]
+name = "HuggingFace"
+link = "https://huggingface.co/arcleife"
+icon = "huggingface"
+
+[[params.handles]]
+name = "Kaggle"
+link = "https://www.kaggle.com/arcleife"
+icon = "kaggle"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

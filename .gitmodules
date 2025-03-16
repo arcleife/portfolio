@@ -1,0 +1,3 @@
+[submodule "themes/jsonresume"]
+	path = themes/jsonresume
+	url = https://github.com/eddiewebb/hugo-resume
