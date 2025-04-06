@@ -40,11 +40,6 @@ name = "HuggingFace"
 link = "https://huggingface.co/arcleife"
 icon = "huggingface"
 
-[[params.handles]]
-name = "Kaggle"
-link = "https://www.kaggle.com/arcleife"
-icon = "kaggle"
-
 [outputs]
 home = ["HTML", "JSON"]
 
